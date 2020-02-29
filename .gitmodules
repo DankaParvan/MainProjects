@@ -1,0 +1,6 @@
+[submodule "Project"]
+	path = Project
+	url = https://github.com/Joiner-dot/Project
+[submodule "Tests"]
+	path = Tests
+	url = https://github.com/Joiner-dot/Projects2
